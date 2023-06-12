@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kashish Singla.</h1>
-<h3 align="center">A passionate and focused student of 3rd year Computer Science at Thapar Institute, Patiala, India..</h3>
+<h3 align="center">A passionate and focused student of 3rd year Computer Science at Thapar Institute, Patiala, India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLWJMLVvruFNIIfrv3GbCe7UekzCI4JywFBw&usqp=CAU">
 
