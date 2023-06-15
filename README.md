@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kashish singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashish singla" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kashish-singla-99b773224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashish-singla-99b773224" height="30" width="40" /></a>
 <a href="https://kaggle.com/kashish50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kashish50" height="30" width="40" /></a>
 <a href="https://instagram.com/kashish.singla11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kashish.singla11" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kkashish_be21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kkashish_be21" height="30" width="40" /></a>
